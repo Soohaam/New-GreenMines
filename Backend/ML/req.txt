@@ -1,0 +1,1 @@
+pandas numpy scikit-learn flask joblib U flask-cors
